@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.env
+teams/*
+!teams/.gitkeep
+*.pyc
